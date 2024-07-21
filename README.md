@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+
 <h1 align="center">Hi 👋, I'm Debi Prasad Mohanty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&s">
