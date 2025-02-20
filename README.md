@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debiprasadmohanty&label=Profile%20views&color=0e75b6&style=flat" alt="debiprasadmohanty" /> </p>
 
-- 🔭 I’m currently working on [Red_Wine_Quality_Prediction](https://github.com/DebiPrasadMohanty/Red_Wine_Quality_Prediction-Project-With-MLflow)
+- 🔭 I’m currently working on [Custom Character-Level LLM with PyTorch](https://github.com/DebiPrasadMohanty/LLM-FROM-SCRATCH)
 
 - 🌱 I’m currently learning **Python, R, Machine Learning, Deep Learning, Genearative AI,**
 
-- 🔭 I’m currently working on [Customer Churn Prediction](https://github.com/DebiPrasadMohanty/ANN-Classification-Churn)
+- 🔭 I’m currently working on [AI Product/Service Prototype Development and Business orFinancial Modelling](https://github.com/DebiPrasadMohanty/AI-Product-Service-Prototype-Development-and-Business-or-Financial-Modelling)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DebiPrasadMohanty](https://github.com/DebiPrasadMohanty)
 
